@@ -57,9 +57,27 @@ The system automatically detects approaching trains, controls a railway gate, ac
 
 ## Project Demonstration
 
-See the uploaded images and demonstration video included in this repository.
+## Project Demonstration
 
----
+### Project Wiring
+
+![Project Wiring](PROJECT%20WIRING.jpeg)
+
+### Train Approaching
+
+![Train Approaching](TRAIN%20APPROACHING.jpeg)
+
+### Gate Closed
+
+![Gate Closed](GATE%20CLOSED.jpeg)
+
+### Gate Open
+
+![Gate Open](GATE%20OPEN.jpeg)
+
+### Dashboard
+
+![Dashboard](TRAIN%20DASHBOARD.jpeg)
 
 ## Future Improvements
 
